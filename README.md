@@ -33,6 +33,6 @@ To operate the application, press the "Turn On" Button for the camera to turn on
 Then when the photo is taken, after one click of the "Take Photo" Button, move to Tab "Card Reader".
 Press the Process Button, then after pressing the "Process" button, press the Valuate Price Button and it will display the cards, price in USD
 
-If you lack a Magic The Gathering Card. There are sample images included in the "Example Image File"
+If you lack a Magic The Gathering Card. There are sample images included in with the .py files.
 Rename any of the test images to "magic_card.jpg/png"
 
